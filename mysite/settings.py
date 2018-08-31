@@ -25,7 +25,7 @@ SECRET_KEY = '6*jq!nw-^n7!3cm8x(no@&mt)#yv8n7u3mk@jtsql(qld6bda1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mode.pythonanywhere.com']
 
 
 # Application definition
